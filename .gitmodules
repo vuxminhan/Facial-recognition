@@ -1,3 +1,3 @@
 [submodule "Principal-component-analysis"]
 	path = Principal-component-analysis
-	url = ./Principal-component-analysis/
+	url = https://github.com/vuxminhan/Principal-component-analysis.git
